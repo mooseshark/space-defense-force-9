@@ -1,0 +1,24 @@
+06/12/2013
+
+Small room
+15-20 ships (possibly more)
+Score for blowing up each ship
+fighter (tank?)
+shoot them rainbow lasers
+room size w: 640, h: 480
+
+if at least 1 ship lands, message, "You have been imprisoned"
+if no ships land, "You have destroyed your entire fleet! How could yo myrder all of your allies?"
+If all ships land, "Your allies has landed successfully! Good job on not shooting them all down!"
+
+*Bugs
+Game reset object switch for shield (needs fixed)
+Audio not working
+Speed may have increased
+
+06/18/2013
+
+*Speeds
+ship1 0.4
+ship2 0.7
+ship3 0.4

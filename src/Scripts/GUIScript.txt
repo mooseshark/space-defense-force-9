@@ -1,0 +1,1 @@
+draw_sprite( GUISpr, image_index, 110, 470 );

@@ -1,0 +1,6 @@
+image_index = direction //causes images to face mouse pointer
+direction = point_direction(x,y,mouse_x,mouse_y)
+speed = 0
+if keyboard_check(vk_up)speed=5
+if keyboard_check(vk_down)speed=-5
+

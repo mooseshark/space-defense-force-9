@@ -1,0 +1,3 @@
+//Creates a single fireball
+{instance_create(x,y,FireBallObj)}
+

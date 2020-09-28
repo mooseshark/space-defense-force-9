@@ -1,0 +1,2 @@
+//moves fireball towards mouse cursor
+move_towards_point(mouse_x,mouse_y,15)
